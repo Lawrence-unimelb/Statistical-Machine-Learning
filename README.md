@@ -1,2 +1,7 @@
 # Statistical-Machine-Learning
-COMP90051-SM2
+Unimelb COMP90051-SM2
+
+- Lecture Slides
+- Workshops
+- Books & Resources
+- Projects (private, ref. to another repo.)
